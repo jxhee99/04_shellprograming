@@ -1,0 +1,3 @@
+/root/bin/group
+/root/bin/passwd
+/root/bin/hosts
